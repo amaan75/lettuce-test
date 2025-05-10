@@ -1,5 +1,7 @@
 # lettuce-test
-
+### Prerequisites
+- Java (tested with jdk11 or jdk17)
+- docker-compose
 
 ### Redis Setup
 
